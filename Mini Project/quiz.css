@@ -1,0 +1,57 @@
+body{
+    background-color:rgb(23, 1, 23);
+    padding:100px;
+    margin:0;
+    font-family: sans-serif;
+  
+  }
+  
+  i{
+    background-color: rgb(89, 103, 103);
+    padding: 20px;
+    color: aliceblue;
+    padding-left: 170px;
+    padding-right: 170px;
+    border-radius: 5px;
+  }
+  .app{
+    background:rgb(196, 192, 191);
+    width:100%;
+    max-width: 900px;
+    margin:100px auto 0;
+    padding:30px;
+    border-radius: 18px;
+    text-align: center;
+  
+  }
+  .app h1{
+    padding-bottom: 30px;
+    font-size: 25px;
+    font-weight: 600;
+  }
+  .quiz{
+    padding: 20px 0;
+  }
+  .btn{
+    width:100%;
+    padding: 10px ;
+    margin:10px 0;
+    text-align: left;
+    cursor: pointer;
+    border-radius: 14px;
+    
+  }
+  #btn1{
+    background-color:rgb(12, 2, 12);
+    color: rgb(252, 81, 19);
+    width:90px;
+    margin:10px auto 0;
+    padding:10px;
+    border-radius: 8px;
+   
+    display: none;
+  }
+  
+  .correct{
+    background-color: rgb(11, 226, 11);
+  }
